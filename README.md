@@ -1,6 +1,6 @@
 # Binary Classification with Imbalanced Data
 
-_**Early project (2023).** I wrote this as one long notebook before moving into industry. I've kept it to show my starting point and left the analysis as-is. I now structure projects as modular, reusable Python code. See [my GitHub profile](https://github.com/jadonc121) for what that looks like._
+_**Early project (2023).** I wrote this as one long notebook before moving into industry. I've kept it to show my starting point and left the analysis as-is. I now structure projects as modular, reusable Python code. See [my current project](https://github.com/jadonc121/causal-inference) for what that looks like._
 
 Comparing resampling techniques and classifiers on imbalanced credit-risk data, with cross-validation designed to avoid data leakage.
 
